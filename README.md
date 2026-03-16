@@ -110,6 +110,7 @@ This makes it a unique beginner-to-intermediate Python project.
 👨‍💻 Author
 
 Shiv
+
 Python Developer | AI Projects | Game + UI Based Learning Projects
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/> </p> ```
