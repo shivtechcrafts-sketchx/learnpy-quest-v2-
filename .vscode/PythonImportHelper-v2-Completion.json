@@ -1,0 +1,1300 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "LEVELS",
+        "importPath": "data.levels",
+        "description": "data.levels",
+        "isExtraImport": true,
+        "detail": "data.levels",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_SIZE",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DOOR_WIDTH",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DOOR_HEIGHT",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GRAY",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_SIZE",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_SPEED",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BLUE",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WHITE",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BLACK",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BLUE",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RED",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LIGHT_GRAY",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WHITE",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RED",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BLACK",
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "isExtraImport": true,
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFilter",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "wave",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wave",
+        "description": "wave",
+        "detail": "wave",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "LEVELS",
+        "kind": 5,
+        "importPath": "data.levels",
+        "description": "data.levels",
+        "peekOfCode": "LEVELS = [\n    {\n        \"name\": \"Level 1 - Variables & Basics\",\n        \"walls\": [\n            (100, 100, 600, 20),\n            (100, 100, 20, 400),\n            (100, 480, 600, 20),\n            (680, 100, 20, 400),\n            (200, 180, 20, 250),\n            (300, 100, 20, 250),",
+        "detail": "data.levels",
+        "documentation": {}
+    },
+    {
+        "label": "questions",
+        "kind": 5,
+        "importPath": "data.questions",
+        "description": "data.questions",
+        "peekOfCode": "questions = [\n    {\n        \"question\": \"What is the output of print(2 + 3)?\",\n        \"options\": [\"23\", \"5\", \"Error\", \"None\"],\n        \"answer\": \"5\"\n    },\n    {\n        \"question\": \"Which data type is 'Hello'?\",\n        \"options\": [\"int\", \"float\", \"str\", \"bool\"],\n        \"answer\": \"str\"",
+        "detail": "data.questions",
+        "documentation": {}
+    },
+    {
+        "label": "LevelManager",
+        "kind": 6,
+        "importPath": "src.level_manager",
+        "description": "src.level_manager",
+        "peekOfCode": "class LevelManager:\n    def __init__(self):\n        self.level_index = 0\n        self.level_data = None\n        self.walls = []\n        self.key_rect = None\n        self.door_rect = None\n        # Images\n        self.wall_img = self.load_image(\"assets/images/wall.png\", (32, 32))\n        self.key_img = self.load_image(\"assets/images/key.png\", (KEY_SIZE, KEY_SIZE))",
+        "detail": "src.level_manager",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class Button:\n    def __init__(self, x, y, w, h, text, color=CYAN):\n        self.rect = pygame.Rect(x, y, w, h)\n        self.text = text\n        self.color = color\n        self.hovered = False\n    def update(self, mouse_pos):\n        self.hovered = self.rect.collidepoint(mouse_pos)\n    def draw(self, surf):\n        fill = PANEL_2 if self.hovered else PANEL",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class Player:\n    def __init__(self, x, y):\n        self.rect = pygame.Rect(x, y, PLAYER_SIZE, PLAYER_SIZE)\n        self.speed = PLAYER_SPEED\n    def move(self, walls):\n        keys = pygame.key.get_pressed()\n        dx, dy = 0, 0\n        if keys[pygame.K_LEFT] or keys[pygame.K_a]:\n            dx = -self.speed\n        if keys[pygame.K_RIGHT] or keys[pygame.K_d]:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "LevelManager",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class LevelManager:\n    def __init__(self):\n        self.level_index = 0\n        self.level_data = None\n        self.walls = []\n        self.key_rect = None\n        self.door_rect = None\n        self.load_level()\n    def load_level(self):\n        self.level_data = LEVELS[self.level_index]",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "QuizManager",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class QuizManager:\n    def __init__(self):\n        self.active = False\n        self.question = None\n        self.selected = None\n        self.option_buttons = []\n        self.submit_button = Button(410, 560, 180, 50, \"Submit\", GREEN)\n    def start(self, question):\n        self.active = True\n        self.question = question",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class Game:\n    def __init__(self):\n        self.state = \"menu\"\n        self.level_manager = LevelManager()\n        start_x, start_y = self.level_manager.get_start_pos()\n        self.player = Player(start_x, start_y)\n        self.quiz = QuizManager()\n        self.score = 0\n        self.lives = 3\n        self.has_key = False",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "load_image",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def load_image(path, size=None, alpha=True):\n    try:\n        if os.path.exists(path):\n            img = pygame.image.load(path)\n            img = img.convert_alpha() if alpha else img.convert()\n            if size:\n                img = pygame.transform.scale(img, size)\n            return img\n    except Exception as e:\n        print(f\"[WARN] Could not load image {path}: {e}\")",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "load_sound",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def load_sound(path):\n    if not SOUND_ENABLED:\n        return None\n    try:\n        if os.path.exists(path):\n            return pygame.mixer.Sound(path)\n    except Exception as e:\n        print(f\"[WARN] Could not load sound {path}: {e}\")\n    return None\n# ==========================================",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "play_sound",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def play_sound(snd):\n    if SOUND_ENABLED and snd:\n        snd.play()\n# ==========================================\n# UI COMPONENTS\n# ==========================================\nclass Button:\n    def __init__(self, x, y, w, h, text, color=CYAN):\n        self.rect = pygame.Rect(x, y, w, h)\n        self.text = text",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "FPS",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "FPS = 60\nTITLE = \"LearnPy Quest V2\"\nWHITE = (245, 250, 255)\nBLACK = (10, 15, 20)\nCYAN = (0, 220, 255)\nBLUE = (0, 120, 255)\nGREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "TITLE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "TITLE = \"LearnPy Quest V2\"\nWHITE = (245, 250, 255)\nBLACK = (10, 15, 20)\nCYAN = (0, 220, 255)\nBLUE = (0, 120, 255)\nGREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "WHITE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "WHITE = (245, 250, 255)\nBLACK = (10, 15, 20)\nCYAN = (0, 220, 255)\nBLUE = (0, 120, 255)\nGREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "BLACK",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "BLACK = (10, 15, 20)\nCYAN = (0, 220, 255)\nBLUE = (0, 120, 255)\nGREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "CYAN",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "CYAN = (0, 220, 255)\nBLUE = (0, 120, 255)\nGREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "BLUE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "BLUE = (0, 120, 255)\nGREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "GREEN = (0, 255, 140)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "RED",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "RED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "YELLOW = (255, 220, 0)\nGRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "GRAY",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "GRAY = (70, 80, 95)\nDARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "DARK_BG",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "DARK_BG = (8, 16, 28)\nPANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "PANEL",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "PANEL = (18, 28, 45)\nPANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "PANEL_2",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "PANEL_2 = (28, 38, 58)\nPLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================\nQUESTIONS = [",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_SIZE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "PLAYER_SIZE = 32\nPLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================\nQUESTIONS = [\n    {",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_SPEED",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "PLAYER_SPEED = 4\nKEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================\nQUESTIONS = [\n    {\n        \"concept\": \"Variables\",",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_SIZE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "KEY_SIZE = 24\nDOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================\nQUESTIONS = [\n    {\n        \"concept\": \"Variables\",\n        \"question\": \"What is the output of print(2 + 3)?\",",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "DOOR_SIZE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "DOOR_SIZE = (48, 72)\nWALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================\nQUESTIONS = [\n    {\n        \"concept\": \"Variables\",\n        \"question\": \"What is the output of print(2 + 3)?\",\n        \"options\": [\"23\", \"5\", \"Error\", \"None\"],",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "WALL_TILE",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "WALL_TILE = 32\n# ==========================================\n# DATA: QUESTIONS\n# ==========================================\nQUESTIONS = [\n    {\n        \"concept\": \"Variables\",\n        \"question\": \"What is the output of print(2 + 3)?\",\n        \"options\": [\"23\", \"5\", \"Error\", \"None\"],\n        \"answer\": \"5\"",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "QUESTIONS",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "QUESTIONS = [\n    {\n        \"concept\": \"Variables\",\n        \"question\": \"What is the output of print(2 + 3)?\",\n        \"options\": [\"23\", \"5\", \"Error\", \"None\"],\n        \"answer\": \"5\"\n    },\n    {\n        \"concept\": \"Data Types\",\n        \"question\": \"Which data type is 'Hello'?\",",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "LEVELS",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "LEVELS = [\n    {\n        \"name\": \"Level 1 - Basics\",\n        \"question_count\": 2,\n        \"walls\": [\n            (100, 80, 800, 20),\n            (100, 80, 20, 520),\n            (100, 580, 800, 20),\n            (880, 80, 20, 520),\n            (220, 140, 20, 380),",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "SOUND_ENABLED",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "SOUND_ENABLED = True\ntry:\n    pygame.mixer.init()\nexcept pygame.error:\n    SOUND_ENABLED = False\n    print(\"[WARN] Audio unavailable. Continuing without sound.\")\nscreen = pygame.display.set_mode((WIDTH, HEIGHT))\npygame.display.set_caption(TITLE)\nclock = pygame.time.Clock()\nfont_small = pygame.font.SysFont(\"consolas\", 20)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "screen",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "screen = pygame.display.set_mode((WIDTH, HEIGHT))\npygame.display.set_caption(TITLE)\nclock = pygame.time.Clock()\nfont_small = pygame.font.SysFont(\"consolas\", 20)\nfont = pygame.font.SysFont(\"consolas\", 24)\nfont_big = pygame.font.SysFont(\"consolas\", 40, bold=True)\nfont_huge = pygame.font.SysFont(\"consolas\", 58, bold=True)\n# ==========================================\n# ASSET LOADERS\n# ==========================================",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "clock",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "clock = pygame.time.Clock()\nfont_small = pygame.font.SysFont(\"consolas\", 20)\nfont = pygame.font.SysFont(\"consolas\", 24)\nfont_big = pygame.font.SysFont(\"consolas\", 40, bold=True)\nfont_huge = pygame.font.SysFont(\"consolas\", 58, bold=True)\n# ==========================================\n# ASSET LOADERS\n# ==========================================\ndef load_image(path, size=None, alpha=True):\n    try:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "font_small",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "font_small = pygame.font.SysFont(\"consolas\", 20)\nfont = pygame.font.SysFont(\"consolas\", 24)\nfont_big = pygame.font.SysFont(\"consolas\", 40, bold=True)\nfont_huge = pygame.font.SysFont(\"consolas\", 58, bold=True)\n# ==========================================\n# ASSET LOADERS\n# ==========================================\ndef load_image(path, size=None, alpha=True):\n    try:\n        if os.path.exists(path):",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "font = pygame.font.SysFont(\"consolas\", 24)\nfont_big = pygame.font.SysFont(\"consolas\", 40, bold=True)\nfont_huge = pygame.font.SysFont(\"consolas\", 58, bold=True)\n# ==========================================\n# ASSET LOADERS\n# ==========================================\ndef load_image(path, size=None, alpha=True):\n    try:\n        if os.path.exists(path):\n            img = pygame.image.load(path)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "font_big",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "font_big = pygame.font.SysFont(\"consolas\", 40, bold=True)\nfont_huge = pygame.font.SysFont(\"consolas\", 58, bold=True)\n# ==========================================\n# ASSET LOADERS\n# ==========================================\ndef load_image(path, size=None, alpha=True):\n    try:\n        if os.path.exists(path):\n            img = pygame.image.load(path)\n            img = img.convert_alpha() if alpha else img.convert()",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "font_huge",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "font_huge = pygame.font.SysFont(\"consolas\", 58, bold=True)\n# ==========================================\n# ASSET LOADERS\n# ==========================================\ndef load_image(path, size=None, alpha=True):\n    try:\n        if os.path.exists(path):\n            img = pygame.image.load(path)\n            img = img.convert_alpha() if alpha else img.convert()\n            if size:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "bg_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "bg_img = load_image(\"assets/images/background.png\", (WIDTH, HEIGHT), alpha=False)\nlogo_img = load_image(\"assets/images/logo.png\", (500, 140))\nplayer_img = load_image(\"assets/images/player.png\", (PLAYER_SIZE, PLAYER_SIZE))\nwall_img = load_image(\"assets/images/wall.png\", (WALL_TILE, WALL_TILE))\nkey_img = load_image(\"assets/images/key.png\", (KEY_SIZE, KEY_SIZE))\ndoor_locked_img = load_image(\"assets/images/door_locked.png\", DOOR_SIZE)\ndoor_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "logo_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "logo_img = load_image(\"assets/images/logo.png\", (500, 140))\nplayer_img = load_image(\"assets/images/player.png\", (PLAYER_SIZE, PLAYER_SIZE))\nwall_img = load_image(\"assets/images/wall.png\", (WALL_TILE, WALL_TILE))\nkey_img = load_image(\"assets/images/key.png\", (KEY_SIZE, KEY_SIZE))\ndoor_locked_img = load_image(\"assets/images/door_locked.png\", DOOR_SIZE)\ndoor_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "player_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "player_img = load_image(\"assets/images/player.png\", (PLAYER_SIZE, PLAYER_SIZE))\nwall_img = load_image(\"assets/images/wall.png\", (WALL_TILE, WALL_TILE))\nkey_img = load_image(\"assets/images/key.png\", (KEY_SIZE, KEY_SIZE))\ndoor_locked_img = load_image(\"assets/images/door_locked.png\", DOOR_SIZE)\ndoor_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "wall_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "wall_img = load_image(\"assets/images/wall.png\", (WALL_TILE, WALL_TILE))\nkey_img = load_image(\"assets/images/key.png\", (KEY_SIZE, KEY_SIZE))\ndoor_locked_img = load_image(\"assets/images/door_locked.png\", DOOR_SIZE)\ndoor_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "key_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "key_img = load_image(\"assets/images/key.png\", (KEY_SIZE, KEY_SIZE))\ndoor_locked_img = load_image(\"assets/images/door_locked.png\", DOOR_SIZE)\ndoor_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "door_locked_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "door_locked_img = load_image(\"assets/images/door_locked.png\", DOOR_SIZE)\ndoor_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")\n        pygame.mixer.music.set_volume(0.25)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "door_unlocked_img",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "door_unlocked_img = load_image(\"assets/images/door_unlocked.png\", DOOR_SIZE)\ncorrect_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")\n        pygame.mixer.music.set_volume(0.25)\n        pygame.mixer.music.play(-1)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "correct_sound",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "correct_sound = load_sound(\"assets/sounds/correct.wav\")\nwrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")\n        pygame.mixer.music.set_volume(0.25)\n        pygame.mixer.music.play(-1)\n    except Exception as e:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "wrong_sound",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "wrong_sound = load_sound(\"assets/sounds/wrong.wav\")\nkey_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")\n        pygame.mixer.music.set_volume(0.25)\n        pygame.mixer.music.play(-1)\n    except Exception as e:\n        print(f\"[WARN] Could not play bg music: {e}\")",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "key_sound",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "key_sound = load_sound(\"assets/sounds/key_pickup.wav\")\ndoor_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")\n        pygame.mixer.music.set_volume(0.25)\n        pygame.mixer.music.play(-1)\n    except Exception as e:\n        print(f\"[WARN] Could not play bg music: {e}\")\ndef play_sound(snd):",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "door_sound",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "door_sound = load_sound(\"assets/sounds/door_open.wav\")\nif SOUND_ENABLED and os.path.exists(\"assets/sounds/bg_music.wav\"):\n    try:\n        pygame.mixer.music.load(\"assets/sounds/bg_music.wav\")\n        pygame.mixer.music.set_volume(0.25)\n        pygame.mixer.music.play(-1)\n    except Exception as e:\n        print(f\"[WARN] Could not play bg music: {e}\")\ndef play_sound(snd):\n    if SOUND_ENABLED and snd:",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "game",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "game = Game()\nwhile True:\n    clock.tick(FPS)\n    for event in pygame.event.get():\n        if event.type == pygame.QUIT:\n            pygame.quit()\n            sys.exit()\n        if game.state == \"menu\":\n            game.handle_menu_events(event)\n        elif game.state == \"playing\":",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "src.player",
+        "description": "src.player",
+        "peekOfCode": "class Player:\n    def __init__(self, x, y):\n        self.rect = pygame.Rect(x, y, PLAYER_SIZE, PLAYER_SIZE)\n        self.speed = PLAYER_SPEED\n        self.image = self.load_image(\"assets/images/player.png\", (PLAYER_SIZE, PLAYER_SIZE))\n    def load_image(self, path, size):\n        try:\n            if os.path.exists(path):\n                img = pygame.image.load(path).convert_alpha()\n                img = pygame.transform.scale(img, size)",
+        "detail": "src.player",
+        "documentation": {}
+    },
+    {
+        "label": "QuizManager",
+        "kind": 6,
+        "importPath": "src.quiz",
+        "description": "src.quiz",
+        "peekOfCode": "class QuizManager:\n    def __init__(self, font, big_font):\n        self.font = font\n        self.big_font = big_font\n        self.active = False\n        self.current_question = None\n        self.selected_index = -1\n        self.result = None\n    def start_question(self, question_data):\n        self.active = True",
+        "detail": "src.quiz",
+        "documentation": {}
+    },
+    {
+        "label": "WIDTH",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "WIDTH = 800\nHEIGHT = 600\nFPS = 60\nTITLE = \"LearnPy Quest\"\n# Colors\nWHITE = (255, 255, 255)\nBLACK = (10, 10, 10)\nBLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "HEIGHT",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "HEIGHT = 600\nFPS = 60\nTITLE = \"LearnPy Quest\"\n# Colors\nWHITE = (255, 255, 255)\nBLACK = (10, 10, 10)\nBLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "FPS",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "FPS = 60\nTITLE = \"LearnPy Quest\"\n# Colors\nWHITE = (255, 255, 255)\nBLACK = (10, 10, 10)\nBLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TITLE",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "TITLE = \"LearnPy Quest\"\n# Colors\nWHITE = (255, 255, 255)\nBLACK = (10, 10, 10)\nBLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WHITE",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "WHITE = (255, 255, 255)\nBLACK = (10, 10, 10)\nBLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BLACK",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "BLACK = (10, 10, 10)\nBLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BLUE",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "BLUE = (0, 180, 255)\nDARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DARK_BLUE",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "DARK_BLUE = (10, 25, 50)\nGREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "GREEN = (0, 220, 120)\nRED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RED",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "RED = (255, 80, 80)\nYELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "YELLOW = (255, 220, 0)\nGRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GRAY",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "GRAY = (70, 70, 70)\nLIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LIGHT_GRAY",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "LIGHT_GRAY = (180, 180, 180)\nPLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_SIZE",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "PLAYER_SIZE = 30\nPLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_SPEED",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "PLAYER_SPEED = 4\nKEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_SIZE",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "KEY_SIZE = 20\nDOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DOOR_WIDTH",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "DOOR_WIDTH = 40\nDOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DOOR_HEIGHT",
+        "kind": 5,
+        "importPath": "src.settings",
+        "description": "src.settings",
+        "peekOfCode": "DOOR_HEIGHT = 60",
+        "detail": "src.settings",
+        "documentation": {}
+    },
+    {
+        "label": "draw_text",
+        "kind": 2,
+        "importPath": "src.ui",
+        "description": "src.ui",
+        "peekOfCode": "def draw_text(screen, text, font, color, x, y):\n    surface = font.render(text, True, color)\n    screen.blit(surface, (x, y))\ndef draw_hud(screen, font, score, lives, level_name, has_key):\n    draw_text(screen, f\"Score: {score}\", font, YELLOW, 20, 15)\n    draw_text(screen, f\"Lives: {lives}\", font, RED, 160, 15)\n    draw_text(screen, level_name, font, GREEN, 300, 15)\n    draw_text(screen, f\"Key: {'Yes' if has_key else 'No'}\", font, WHITE, 620, 15)\ndef draw_center_message(screen, text, big_font, color=WHITE):\n    msg = big_font.render(text, True, color)",
+        "detail": "src.ui",
+        "documentation": {}
+    },
+    {
+        "label": "draw_hud",
+        "kind": 2,
+        "importPath": "src.ui",
+        "description": "src.ui",
+        "peekOfCode": "def draw_hud(screen, font, score, lives, level_name, has_key):\n    draw_text(screen, f\"Score: {score}\", font, YELLOW, 20, 15)\n    draw_text(screen, f\"Lives: {lives}\", font, RED, 160, 15)\n    draw_text(screen, level_name, font, GREEN, 300, 15)\n    draw_text(screen, f\"Key: {'Yes' if has_key else 'No'}\", font, WHITE, 620, 15)\ndef draw_center_message(screen, text, big_font, color=WHITE):\n    msg = big_font.render(text, True, color)\n    rect = msg.get_rect(center=(400, 300))\n    screen.blit(msg, rect)\ndef draw_instructions(screen, font):",
+        "detail": "src.ui",
+        "documentation": {}
+    },
+    {
+        "label": "draw_center_message",
+        "kind": 2,
+        "importPath": "src.ui",
+        "description": "src.ui",
+        "peekOfCode": "def draw_center_message(screen, text, big_font, color=WHITE):\n    msg = big_font.render(text, True, color)\n    rect = msg.get_rect(center=(400, 300))\n    screen.blit(msg, rect)\ndef draw_instructions(screen, font):\n    instructions = [\n        \"Move: WASD / Arrow Keys\",\n        \"Collect the KEY\",\n        \"Go to the DOOR\",\n        \"Answer Python question to unlock next level\"",
+        "detail": "src.ui",
+        "documentation": {}
+    },
+    {
+        "label": "draw_instructions",
+        "kind": 2,
+        "importPath": "src.ui",
+        "description": "src.ui",
+        "peekOfCode": "def draw_instructions(screen, font):\n    instructions = [\n        \"Move: WASD / Arrow Keys\",\n        \"Collect the KEY\",\n        \"Go to the DOOR\",\n        \"Answer Python question to unlock next level\"\n    ]\n    y = 520\n    for line in instructions:\n        txt = font.render(line, True, BLACK)",
+        "detail": "src.ui",
+        "documentation": {}
+    },
+    {
+        "label": "save_image",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def save_image(img, filename):\n    path = os.path.join(IMAGES_DIR, filename)\n    img.save(path)\n    print(f\"Generated: {path}\")\ndef create_canvas(size, color=(0, 0, 0, 0)):\n    return Image.new(\"RGBA\", size, color)\ndef glow_effect(base_img, blur_radius=8):\n    glow = base_img.filter(ImageFilter.GaussianBlur(blur_radius))\n    return glow\ndef draw_glowing_rect(size, fill_color, glow_color, border_radius=8, glow_blur=8):",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "create_canvas",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def create_canvas(size, color=(0, 0, 0, 0)):\n    return Image.new(\"RGBA\", size, color)\ndef glow_effect(base_img, blur_radius=8):\n    glow = base_img.filter(ImageFilter.GaussianBlur(blur_radius))\n    return glow\ndef draw_glowing_rect(size, fill_color, glow_color, border_radius=8, glow_blur=8):\n    img = create_canvas(size)\n    glow_layer = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow_layer)\n    # Glow larger rect",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "glow_effect",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def glow_effect(base_img, blur_radius=8):\n    glow = base_img.filter(ImageFilter.GaussianBlur(blur_radius))\n    return glow\ndef draw_glowing_rect(size, fill_color, glow_color, border_radius=8, glow_blur=8):\n    img = create_canvas(size)\n    glow_layer = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow_layer)\n    # Glow larger rect\n    pad = 4\n    glow_draw.rounded_rectangle(",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "draw_glowing_rect",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def draw_glowing_rect(size, fill_color, glow_color, border_radius=8, glow_blur=8):\n    img = create_canvas(size)\n    glow_layer = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow_layer)\n    # Glow larger rect\n    pad = 4\n    glow_draw.rounded_rectangle(\n        [pad, pad, size[0]-pad, size[1]-pad],\n        radius=border_radius,\n        fill=glow_color",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "get_font",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def get_font(size=24):\n    # Try common fonts; fallback to default\n    font_candidates = [\n        \"arial.ttf\",\n        \"Arial.ttf\",\n        \"DejaVuSans-Bold.ttf\",\n        \"DejaVuSans.ttf\"\n    ]\n    for f in font_candidates:\n        try:",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_player",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_player():\n    \"\"\"\n    32x32 neon bot-like player icon\n    \"\"\"\n    size = (32, 32)\n    img = create_canvas(size)\n    glow = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow)\n    # Glow body\n    glow_draw.rounded_rectangle([6, 6, 26, 26], radius=6, fill=CYAN_GLOW)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_wall",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_wall():\n    \"\"\"\n    32x32 sci-fi wall tile\n    \"\"\"\n    size = (32, 32)\n    img = create_canvas(size)\n    draw = ImageDraw.Draw(img)\n    # Base tile\n    draw.rounded_rectangle([0, 0, 31, 31], radius=4, fill=DARK_GRAY)\n    # Inner panel",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_key",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_key():\n    \"\"\"\n    24x24 glowing key icon\n    \"\"\"\n    size = (24, 24)\n    img = create_canvas(size)\n    glow = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow)\n    glow_draw.ellipse([2, 2, 12, 12], fill=YELLOW_GLOW)\n    glow_draw.rectangle([10, 6, 19, 10], fill=YELLOW_GLOW)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_door_locked",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_door_locked():\n    \"\"\"\n    40x60 locked red sci-fi door\n    \"\"\"\n    size = (40, 60)\n    img = create_canvas(size)\n    glow = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow)\n    glow_draw.rounded_rectangle([4, 4, 36, 56], radius=6, fill=(255, 100, 100, 180))\n    glow = glow_effect(glow, 6)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_door_unlocked",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_door_unlocked():\n    \"\"\"\n    40x60 unlocked green sci-fi door\n    \"\"\"\n    size = (40, 60)\n    img = create_canvas(size)\n    glow = create_canvas(size)\n    glow_draw = ImageDraw.Draw(glow)\n    glow_draw.rounded_rectangle([4, 4, 36, 56], radius=6, fill=(100, 255, 160, 180))\n    glow = glow_effect(glow, 6)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_background",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_background():\n    \"\"\"\n    800x600 cyber grid background\n    \"\"\"\n    size = (800, 600)\n    img = create_canvas(size, BG_DARK)\n    draw = ImageDraw.Draw(img)\n    # Gradient-ish horizontal bars\n    for y in range(0, 600, 4):\n        alpha = int(15 + (y / 600) * 20)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "generate_logo",
+        "kind": 2,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "def generate_logo():\n    \"\"\"\n    500x140 logo image with LearnPy Quest text\n    \"\"\"\n    size = (500, 140)\n    img = create_canvas(size)\n    glow = create_canvas(size)\n    font_big = get_font(42)\n    font_small = get_font(18)\n    # Glow text",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGES_DIR",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "IMAGES_DIR = os.path.join(\"assets\", \"images\")\nos.makedirs(IMAGES_DIR, exist_ok=True)\n# Colors\nBG_DARK = (8, 15, 30)\nCYAN = (0, 220, 255)\nCYAN_GLOW = (80, 255, 255)\nBLUE = (0, 120, 255)\nWHITE = (240, 245, 255)\nYELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "BG_DARK",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "BG_DARK = (8, 15, 30)\nCYAN = (0, 220, 255)\nCYAN_GLOW = (80, 255, 255)\nBLUE = (0, 120, 255)\nWHITE = (240, 245, 255)\nYELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "CYAN",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "CYAN = (0, 220, 255)\nCYAN_GLOW = (80, 255, 255)\nBLUE = (0, 120, 255)\nWHITE = (240, 245, 255)\nYELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "CYAN_GLOW",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "CYAN_GLOW = (80, 255, 255)\nBLUE = (0, 120, 255)\nWHITE = (240, 245, 255)\nYELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "BLUE",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "BLUE = (0, 120, 255)\nWHITE = (240, 245, 255)\nYELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "WHITE",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "WHITE = (240, 245, 255)\nYELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "YELLOW = (255, 220, 0)\nYELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW_GLOW",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "YELLOW_GLOW = (255, 245, 120)\nRED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================\ndef save_image(img, filename):",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "RED",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "RED = (255, 80, 80)\nGREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================\ndef save_image(img, filename):\n    path = os.path.join(IMAGES_DIR, filename)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "GREEN = (0, 255, 140)\nGRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================\ndef save_image(img, filename):\n    path = os.path.join(IMAGES_DIR, filename)\n    img.save(path)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "GRAY",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "GRAY = (55, 65, 85)\nDARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================\ndef save_image(img, filename):\n    path = os.path.join(IMAGES_DIR, filename)\n    img.save(path)\n    print(f\"Generated: {path}\")",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "DARK_GRAY",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "DARK_GRAY = (30, 35, 45)\nBLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================\ndef save_image(img, filename):\n    path = os.path.join(IMAGES_DIR, filename)\n    img.save(path)\n    print(f\"Generated: {path}\")\ndef create_canvas(size, color=(0, 0, 0, 0)):",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "BLACK",
+        "kind": 5,
+        "importPath": "generate_images",
+        "description": "generate_images",
+        "peekOfCode": "BLACK = (0, 0, 0)\n# =========================\n# HELPERS\n# =========================\ndef save_image(img, filename):\n    path = os.path.join(IMAGES_DIR, filename)\n    img.save(path)\n    print(f\"Generated: {path}\")\ndef create_canvas(size, color=(0, 0, 0, 0)):\n    return Image.new(\"RGBA\", size, color)",
+        "detail": "generate_images",
+        "documentation": {}
+    },
+    {
+        "label": "clamp",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def clamp(value, min_value=-1.0, max_value=1.0):\n    return max(min(value, max_value), min_value)\ndef save_wav(filename, samples):\n    filepath = os.path.join(SOUNDS_DIR, filename)\n    with wave.open(filepath, 'w') as wf:\n        wf.setnchannels(1)       # mono\n        wf.setsampwidth(2)       # 16-bit\n        wf.setframerate(SAMPLE_RATE)\n        frames = bytearray()\n        for sample in samples:",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "save_wav",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def save_wav(filename, samples):\n    filepath = os.path.join(SOUNDS_DIR, filename)\n    with wave.open(filepath, 'w') as wf:\n        wf.setnchannels(1)       # mono\n        wf.setsampwidth(2)       # 16-bit\n        wf.setframerate(SAMPLE_RATE)\n        frames = bytearray()\n        for sample in samples:\n            sample = clamp(sample)\n            int_sample = int(sample * 32767.0)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "sine_wave",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def sine_wave(freq, duration, volume=0.5):\n    total_samples = int(SAMPLE_RATE * duration)\n    return [\n        volume * math.sin(2 * math.pi * freq * t / SAMPLE_RATE)\n        for t in range(total_samples)\n    ]\ndef square_wave(freq, duration, volume=0.4):\n    total_samples = int(SAMPLE_RATE * duration)\n    return [\n        volume * (1.0 if math.sin(2 * math.pi * freq * t / SAMPLE_RATE) >= 0 else -1.0)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "square_wave",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def square_wave(freq, duration, volume=0.4):\n    total_samples = int(SAMPLE_RATE * duration)\n    return [\n        volume * (1.0 if math.sin(2 * math.pi * freq * t / SAMPLE_RATE) >= 0 else -1.0)\n        for t in range(total_samples)\n    ]\ndef noise_wave(duration, volume=0.2):\n    total_samples = int(SAMPLE_RATE * duration)\n    return [\n        volume * random.uniform(-1.0, 1.0)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "noise_wave",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def noise_wave(duration, volume=0.2):\n    total_samples = int(SAMPLE_RATE * duration)\n    return [\n        volume * random.uniform(-1.0, 1.0)\n        for _ in range(total_samples)\n    ]\ndef apply_fade(samples, fade_in=0.01, fade_out=0.03):\n    total = len(samples)\n    fade_in_samples = int(SAMPLE_RATE * fade_in)\n    fade_out_samples = int(SAMPLE_RATE * fade_out)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "apply_fade",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def apply_fade(samples, fade_in=0.01, fade_out=0.03):\n    total = len(samples)\n    fade_in_samples = int(SAMPLE_RATE * fade_in)\n    fade_out_samples = int(SAMPLE_RATE * fade_out)\n    for i in range(min(fade_in_samples, total)):\n        samples[i] *= (i / fade_in_samples)\n    for i in range(min(fade_out_samples, total)):\n        idx = total - i - 1\n        samples[idx] *= (i / fade_out_samples)\n    return samples",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "mix_tracks",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def mix_tracks(*tracks):\n    max_len = max(len(track) for track in tracks)\n    mixed = [0.0] * max_len\n    for track in tracks:\n        for i in range(len(track)):\n            mixed[i] += track[i]\n    # normalize\n    max_amp = max(abs(x) for x in mixed) if mixed else 1.0\n    if max_amp > 1.0:\n        mixed = [x / max_amp for x in mixed]",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "concat_tracks",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def concat_tracks(*tracks):\n    output = []\n    for track in tracks:\n        output.extend(track)\n    return output\ndef silence(duration):\n    return [0.0] * int(SAMPLE_RATE * duration)\n# =========================\n# SOUND GENERATORS\n# =========================",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "silence",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def silence(duration):\n    return [0.0] * int(SAMPLE_RATE * duration)\n# =========================\n# SOUND GENERATORS\n# =========================\ndef generate_correct():\n    # Happy rising tones\n    a = sine_wave(660, 0.12, 0.4)\n    b = sine_wave(880, 0.12, 0.4)\n    c = sine_wave(1040, 0.18, 0.35)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "generate_correct",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def generate_correct():\n    # Happy rising tones\n    a = sine_wave(660, 0.12, 0.4)\n    b = sine_wave(880, 0.12, 0.4)\n    c = sine_wave(1040, 0.18, 0.35)\n    sound = concat_tracks(a, b, c)\n    sound = apply_fade(sound, 0.005, 0.04)\n    save_wav(\"correct.wav\", sound)\ndef generate_wrong():\n    # Descending buzzy tones",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "generate_wrong",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def generate_wrong():\n    # Descending buzzy tones\n    a = square_wave(400, 0.12, 0.25)\n    b = square_wave(280, 0.15, 0.25)\n    c = square_wave(180, 0.18, 0.2)\n    sound = concat_tracks(a, b, c)\n    sound = apply_fade(sound, 0.005, 0.05)\n    save_wav(\"wrong.wav\", sound)\ndef generate_key_pickup():\n    # Quick bright pickup sparkle",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "generate_key_pickup",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def generate_key_pickup():\n    # Quick bright pickup sparkle\n    a = sine_wave(1200, 0.06, 0.3)\n    b = sine_wave(1600, 0.06, 0.25)\n    c = sine_wave(2000, 0.08, 0.2)\n    sound = concat_tracks(a, b, c)\n    sound = apply_fade(sound, 0.003, 0.03)\n    save_wav(\"key_pickup.wav\", sound)\ndef generate_door_open():\n    # Mechanical-ish unlock + low whoosh",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "generate_door_open",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def generate_door_open():\n    # Mechanical-ish unlock + low whoosh\n    click1 = square_wave(500, 0.05, 0.18)\n    click2 = square_wave(700, 0.04, 0.15)\n    low_tone = sine_wave(180, 0.25, 0.18)\n    hiss = noise_wave(0.20, 0.04)\n    part1 = concat_tracks(click1, silence(0.02), click2)\n    part2 = mix_tracks(low_tone, hiss)\n    sound = concat_tracks(part1, silence(0.02), part2)\n    sound = apply_fade(sound, 0.003, 0.05)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "generate_bg_music",
+        "kind": 2,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "def generate_bg_music():\n    \"\"\"\n    Simple retro ambient loop:\n    Repeating soft synth tones.\n    Approx 8 seconds.\n    \"\"\"\n    sequence = [\n        220, 277, 330, 277,\n        196, 247, 294, 247,\n        220, 277, 330, 392,",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "SAMPLE_RATE",
+        "kind": 5,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "SAMPLE_RATE = 44100\nSOUNDS_DIR = os.path.join(\"assets\", \"sounds\")\nos.makedirs(SOUNDS_DIR, exist_ok=True)\n# =========================\n# AUDIO HELPERS\n# =========================\ndef clamp(value, min_value=-1.0, max_value=1.0):\n    return max(min(value, max_value), min_value)\ndef save_wav(filename, samples):\n    filepath = os.path.join(SOUNDS_DIR, filename)",
+        "detail": "generate_sounds",
+        "documentation": {}
+    },
+    {
+        "label": "SOUNDS_DIR",
+        "kind": 5,
+        "importPath": "generate_sounds",
+        "description": "generate_sounds",
+        "peekOfCode": "SOUNDS_DIR = os.path.join(\"assets\", \"sounds\")\nos.makedirs(SOUNDS_DIR, exist_ok=True)\n# =========================\n# AUDIO HELPERS\n# =========================\ndef clamp(value, min_value=-1.0, max_value=1.0):\n    return max(min(value, max_value), min_value)\ndef save_wav(filename, samples):\n    filepath = os.path.join(SOUNDS_DIR, filename)\n    with wave.open(filepath, 'w') as wf:",
+        "detail": "generate_sounds",
+        "documentation": {}
+    }
+]
